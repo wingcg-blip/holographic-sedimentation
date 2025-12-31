@@ -17,4 +17,4 @@ All experimental data were executed on the `ibm_torino` (Heron r1) backend.
 
 ## How to Cite
 If you use this data or code in your research, please cite:
-> Wangfujia et al., "Observation of Geometric Dark Matter Sedimentation...", (2025). [[Insert Zenodo DOI here]](https://zenodo.org/records/18088527)
+> Wangfujia et al., "Observation of Geometric Dark Matter Sedimentation...", (2025). [[(https://doi.org/10.5281/zenodo.18108172)]
